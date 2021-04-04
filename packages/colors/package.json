@@ -1,6 +1,6 @@
 {
   "name": "@jverneaut/colors",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "Julien Verneaut <jverneaut@gmail.com>",
   "homepage": "https://github.com/jverneaut/utils#readme",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/jverneaut/utils/issues"
   },
-   "publishConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "gitHead": "f395a9715d68cecef9c0ed425e70bf03f3d8d6c9"
