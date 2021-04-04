@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jverneaut/utils/issues"
   },
-  "gitHead": "827f6b65057b506bf26aa101cf0a5508145ee4a0"
+   "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "f395a9715d68cecef9c0ed425e70bf03f3d8d6c9"
 }
